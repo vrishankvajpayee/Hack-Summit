@@ -1,6 +1,4 @@
-my_data=read.csv(file.choose())
-
-my_data=read.csv(file.choose())
+my_data=read.csv(file.choose()) .  # uploading the file in the console
 dim(my_state)
 dim(my_data)
 head[,12]

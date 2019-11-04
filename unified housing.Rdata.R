@@ -1,6 +1,6 @@
 my_data=read.csv(file.choose()) .  # uploading the file in the console
 dim(my_state)
-dim(my_data)
+dim(my_data) #dim is used to give dimensions for the data set 
 head[,12]
 my_data[,12]
 names(my_data)

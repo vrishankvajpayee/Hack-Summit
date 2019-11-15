@@ -241,7 +241,7 @@ pie3D(x,labels=lbls,explode=0.8,radius=5.0)
 pie3D(x,labels=lbls,explode=0.8,radius=2.0)
 pie3D(x,labels=lbls,explode=2.0,rpie3D(x,labels=lbls,explode=0.8,minsep=2.0)adius=2.0)
 help("pie3D.labels")
-library(plotrix)
+library(plotrix)#library 
 pie3D.labels (labels=lbls,minsep=2.0,labelrad=0.1)
 names(my_rental)
 plot(my_rental$AREA,my_rental$RENT_INR)

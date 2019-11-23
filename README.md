@@ -1,5 +1,5 @@
 # Hack-Summit
-This is the project totally based on R where the data is import in the form of comma seperated value(CSV)
+This is the project totally based on R programming language where the data is import in the form of comma seperated value(CSV)
 and the data is analysed and visulisation techniques are applied to it. It's main backdrop is rental service for the city.
 
 ## Topic

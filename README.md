@@ -7,5 +7,5 @@ The data set is based upon the properties in the city of Mumbai, India where the
 from the city is listed down, containing information such as the type of property, the rent of it,the no of rooms property has, whether it is a commercal property or not and so on.
 ## Visualisation tools used
 To project the dataset the visualisation tools which I have used are as following:-
-1)Kernel Density to depict the population on the area.
-2)Hex bin plot to show the area wise deamnd of the property
+### 1)Kernel Density to depict the population on the area.
+### 2)Hex bin plot to show the area wise deamnd of the property

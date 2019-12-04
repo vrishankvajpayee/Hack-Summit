@@ -273,7 +273,7 @@ bin=hexbin(table(my_rental$AREA),tabe(my_rental$RENT_INR),xbins=050)
 bin=hexbin(table(my_rental$AREA),table(my_rental$RENT_INR),xbins=050)
 plot(bin,main="Area wise demand",xlab="AREA",ylab="Rent",style="nested.lattice")
 plot(bin,main="Area wise demand",xlab="AREA",ylab="Rent",colramp=BTY)
-bin=hexbin(my_rental$AREA,my_rental$RENT_INR,xbins=050)
+bin=hexbin(my_rental$AREA,my_rental$RENT_INR,xbins=050)#bin
 plot(bin,main="Area wise demand",xlab="AREA",ylab="Rent",colramp=BTY)
 plot(bin,main="Area wise demand",xlab="AREA",ylab="Rent",colramp=BTY,legend=1.2)
 plot(bin,main="Area wise demand",xlab="AREA",ylab="Rent",colramp=BTY,legend=2.0)

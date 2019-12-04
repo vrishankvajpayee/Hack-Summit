@@ -106,7 +106,7 @@ hist(table(my_data$RENT.INR.cut))
 my=c(my_data$RENT.INR)*12
 my
 range(my)
-breaks=seq(180000,5200000,by=10000)
+breaks=seq(180000,5200000,by=10000)#seq
 breaks
 my.cut=cut(my,breaks,right=FALSE)
 my.cut=cut(my,breaks,right=FALSE)

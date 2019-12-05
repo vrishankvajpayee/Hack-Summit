@@ -5,7 +5,7 @@ head[,12]
 my_data[,12]
 names(my_data)
 my_data$Floor
-barplot(my_data$Floor)
+barplot(my_data$Floor)#bar diagram
 barplot((my_data$Floor)/length(my_data$Floor))
 table(my_data$Floor)
 barplot(table(my_data$Floor))

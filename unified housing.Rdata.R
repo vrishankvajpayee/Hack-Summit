@@ -154,7 +154,7 @@ sum(table(my.cut))
 hightax=sum(table(my.cut))
 taxation=c(notax,smalltax,mediumtax,hightax)
 table(taxation)
-hist(taxation)
+hist(taxation)#histogram
 barplot(taxation)
 b=c("No Tax (Below 2.5L"),"5% Tax (5L-10L)","20% Tax(10L-20L)","30% Tax (10L+)")
 b=c("No Tax (Below 2.5L)","5% Tax (5L-10L)","20% Tax(10L-20L)","30% Tax (10L+)")

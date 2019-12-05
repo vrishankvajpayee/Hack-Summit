@@ -1,6 +1,6 @@
 # Hack-Summit
 This is the project totally based on R programming language where the data is import in the form of comma seperated value(CSV)
-and the data is analysed and visulisation techniques are applied to it. The main purpose is of the project is Unified Rental Scheme which wprks as a solution for a 
+and the data is analysed and visulisation techniques are applied to it. The main purpose is of the project is Unified Rental Scheme which works as a solution for a 1 portal system for entire rental sceme for the city.
 
 ## Topic
 The data set is based upon the properties in the city of Mumbai, India where the properties from several areas 

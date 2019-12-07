@@ -21,7 +21,7 @@ barplot(table(my_data$Floor),main="Apartment availability for each category of r
 names(my_data)
 install.packages("plotrix")#package used in plotting
 library(plotrix)
-pie3D(my_data$Type)
+pie3D(my_data$Type)#3d pie chart
 table(my_data$Type)
 pie3D(table(my_data$Type))
 pie3D(table(my_data$Type),main="Type of Property",explode=0.2)

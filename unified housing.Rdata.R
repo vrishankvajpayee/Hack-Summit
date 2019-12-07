@@ -3,7 +3,7 @@ dim(my_state)
 dim(my_data) #dim is used to give dimensions for the data set 
 head[,12]
 my_data[,12]
-names(my_data)
+names(my_data)#returns the column names
 my_data$Floor
 barplot(my_data$Floor)#bar diagram
 barplot((my_data$Floor)/length(my_data$Floor))

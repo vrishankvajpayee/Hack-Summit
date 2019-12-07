@@ -19,7 +19,7 @@ barplot(table(my_data$Floor),main="Apartment availability for each category of r
 barplot(table(my_data$Floor),main="Apartment availability for each category of room",xlab="Number of Rooms",ylab="Number of Apartments",col="indianred1",ylim =c(0,40))
 barplot(table(my_data$Floor),main="Apartment availability for each category of room",xlab="Number of Rooms",ylab="Number of Apartments",col="indianred1",ylim =c(0,40))
 names(my_data)
-install.packages("plotrix")
+install.packages("plotrix")#package used in plotting
 library(plotrix)
 pie3D(my_data$Type)
 table(my_data$Type)

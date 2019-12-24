@@ -249,7 +249,7 @@ plot(my_rental$AREA,my_rental$RENT_INR,pch=19)
 plot(my_rental$AREA,my_rental$RENT_INR,pch=19,xlab="Area")
 scatter.smooth(my_rental$AREA,my_rental$RENT_INR)
 library(hexbin)
-install.packages("hexbin")
+install.packages("hexbin")#ploting hexbin
 library(hexbin)
 bin=(my_rental$AREA,my_rental$RENT_INR)
 bin=hexbin(my_rental$AREA,my_rental$RENT_INR)

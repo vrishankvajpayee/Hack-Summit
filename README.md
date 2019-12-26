@@ -9,6 +9,6 @@ from the city is listed down, containing information such as the type of propert
 To project the dataset the visualisation tools which I have used are as following:-
 1. Kernel Density to depict the population on the area.
 2. Hex bin plot to show the area wise deamand of the property. 
-3. Pie chart to depict the types of property.
+3. Pie chart to depict the types of propertyy.
 4. Bar Diagram to show the variation of rent with the change in area.
 

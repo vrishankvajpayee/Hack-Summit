@@ -220,7 +220,7 @@ barplot(table(my_rental$AREA))
 area=c(and,bkc,bandstand,bha,church,churche,churchw,colaba,jvp,jw,saki)
 table(area)
 barplot(table(area))
-pie(table(my_rental$AREA))
+pie(table(my_rental$AREA))#area combine
 pie(table(area))
 sum(my_rental$AREA)
 l=table(area)
